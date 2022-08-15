@@ -44,7 +44,8 @@ Prevent requests without valid authentication headers.
 
 ### Github repository link
 The Github have two (2) braches with master as the default one.
-Link to repository: https://github.com/tinepapa/cloud-developer/tree/master/course-02/project/image-filter-starter-code 
+Link to repository (master branch): https://github.com/tinepapa/cloud-developer/tree/master/course-02/project/image-filter-starter-code 
+secondary branch for dev purpose: https://github.com/tinepapa/cloud-developer/tree/dev/course-02/project/image-filter-starter-code
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
