@@ -42,7 +42,15 @@ If you're feeling up to it, refactor the course RESTapi to make a request to you
 Prevent requests without valid authentication headers.
 > !!NOTE if you choose to submit this, make sure to add the token to the postman collection and export the postman collection file to your submission so we can review!
 
+### Github repository link
+The Github have two (2) braches with master as the default one.
+Link to repository: https://github.com/tinepapa/cloud-developer/tree/master/course-02/project/image-filter-starter-code 
+
+Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
+> !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
 ### Custom Domain Name
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
